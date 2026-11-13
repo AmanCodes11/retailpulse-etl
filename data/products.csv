@@ -1,0 +1,6 @@
+sku,name,stock_on_hand,reorder_level
+R101,Rice 5 kg,3,5
+O102,Cooking Oil 1 L,8,4
+T103,Tea 250 g,2,2
+S104,Sugar 1 kg,12,5
+B105,Biscuits 100 g,0,6
